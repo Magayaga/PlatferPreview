@@ -20,7 +20,9 @@ Quick start options are available:
   $ sudo apt-get install python3
   
   # Step 3: Install the GTK and WebKit2.
-  $ sudo apt-get install -y gir1.2-gtk-3.0 webkit2gtk-4.1
+  $ sudo apt-get update --fix-missing
+  $ sudo apt-get install -y gir1.2-gtk-3.0
+  $ sudo apt-get install webkit2gtk-4.1
   
   # Step 4: Build and run the application.
   $ python3 src/PlatferPreview.py
