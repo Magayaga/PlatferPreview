@@ -12,7 +12,7 @@ Quick start options are available:
 
 ```shell
   # Step 1: Clone the repository.
-  $ git clone https://github.com/Platfer/Platfer.git
+  $ git clone https://github.com/Magayaga/PlatferPreview.git
   $ cd Platfer
 
   # Step 2: Install the Python programming language.
