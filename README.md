@@ -22,5 +22,5 @@ Quick start options are available:
   $ sudo apt-get install -y gir1.2-gtk-3.0 webkit2gtk-4.1
   
   # Step 4: Build and run the application.
-  $ python preview/linux/PlatferPreview.py
+  $ python3 src/PlatferPreview.py
 ```
