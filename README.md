@@ -13,7 +13,7 @@ Quick start options are available:
 ```shell
   # Step 1: Clone the repository.
   $ git clone https://github.com/Magayaga/PlatferPreview.git
-  $ cd Platfer
+  $ cd PlatferPreview
 
   # Step 2: Install the Python programming language.
   $ sudo apt-get install python3
