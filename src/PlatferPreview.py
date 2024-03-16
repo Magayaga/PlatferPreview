@@ -1,4 +1,4 @@
-# Copyright 2023 Cyril John Magayaga
+# Copyright 2023-2024 Cyril John Magayaga
 # Platfer Preview (v2.0-preview4)
 # Linux operating system
 import gi
