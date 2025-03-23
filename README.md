@@ -6,8 +6,9 @@
 * January 18, 2023, Cyril John Magayaga announced the **Platfer Preview**, upcoming December 2024 on **Linux** operating system like **Python** programming language.
 * January 20, 2023, Cyril John Magayaga announced the starting preview development of **Linux** distros and **Windows Subsystem for Linux** including **Ubuntu**.
 * January 23, 2023, Cyril John Magayaga announced the successful web browser of **Platfer Preview** for **Linux**, fixing new tabs.
-* August 9, 2023, Cyril John Magayaga announced the update code (all def to class Platfer) but forget if fixing multiple and unlimited tabs.
+* August 9, 2023, Cyril John Magayaga announced the update code (all def to class Platfer) but forgot to fix multiple and unlimited tabs.
 * March 16, 2024, Cyril John Magayaga announced the [Platfer](https://github.com/Platfer) was split into [Platfer Preview](https://github.com/Magayaga/PlatferPreview).
+* March 23, 2025, Cyril John Magayaga announced that **unlimited numbers of new tabs** and adding **GLib** had successfully worked.
 
 ## Getting Started
 Quick start options are available:
