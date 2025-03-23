@@ -1,6 +1,12 @@
 # Platfer Preview
 **Platfer Preview** (formerly known as **PlatferPlex**) is a free and open-source web browser created and developed by [**Cyril John Magayaga**](https://github.com/magayaga). It is primarily based on free and open-source software.
 
+<p align="center">
+  <a href="https://github.com/magayaga/PlatferPreview">
+    <img src="assets/PlatferPreview-WSL-March2025.png" alt="Background of PlatferPreview" width="100%" height="auto">
+  </a>
+</p>
+
 ## History
 * December 19, 2022, Cyril John Magayaga announced the new creation of the **Platfer Preview** web browser.
 * January 18, 2023, Cyril John Magayaga announced the **Platfer Preview**, upcoming December 2024 on **Linux** operating system like **Python** programming language.
