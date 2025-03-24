@@ -17,6 +17,7 @@ It is available for **Linux** operating system and **Windows with WSL** (Windows
 * August 9, 2023, Cyril John Magayaga announced the update code (all def to class Platfer) but forgot to fix multiple and unlimited tabs.
 * March 16, 2024, Cyril John Magayaga announced the [Platfer](https://github.com/Platfer) was split into [Platfer Preview](https://github.com/Magayaga/PlatferPreview).
 * March 23, 2025, Cyril John Magayaga announced that **unlimited numbers of new tabs** and adding **GLib** had successfully worked.
+* March 24, 2025, Cyril John Magayaga wrote "Platfer Preview can't play this video or audio." **WebVTT** didn't work.
 
 ## Getting Started
 Quick start options are available:
