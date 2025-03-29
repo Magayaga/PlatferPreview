@@ -18,6 +18,7 @@ It is available for **Linux** operating system and **Windows with WSL** (Windows
 * March 16, 2024, Cyril John Magayaga announced the [Platfer](https://github.com/Platfer) was split into [Platfer Preview](https://github.com/Magayaga/PlatferPreview).
 * March 23, 2025, Cyril John Magayaga announced that **unlimited numbers of new tabs** and adding **GLib** had successfully worked.
 * March 24, 2025, Cyril John Magayaga wrote "Platfer Preview can't play this video or audio." **WebVTT** didn't work.
+* March 29, 2025, Cyril John Magayaga announced the addition of **GStreamer** libraries.
 
 ## Getting Started
 Quick start options are available:
@@ -30,8 +31,8 @@ Quick start options are available:
   # Step 2: Install the Python programming language.
   $ sudo apt-get install python3
   
-  # Step 3: Install the GTK, WebKit2, and GLib
-  $ sudo apt-get install -y gir1.2-gtk-3.0 webkit2gtk-4.1 gir1.2-glib-2.0
+  # Step 3: Install the GTK, WebKit2, GLib, and GStreamer
+  $ sudo apt-get install -y gir1.2-gtk-3.0 webkit2gtk-4.1 gir1.2-glib-2.0 gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
   
   # Step 4: Build and run the application.
   $ python preview/linux/PlatferPreview.py
@@ -47,11 +48,16 @@ Fix it missing,
   # Step 2: Install the Python programming language.
   $ sudo apt-get install python3
   
-  # Step 3: Install the GTK, WebKit2, and GLib
+  # Step 3: Install the GTK, WebKit2, GLib, and GStreamer
   $ sudo apt-get update --fix-missing
   $ sudo apt-get install -y gir1.2-gtk-3.0
   $ sudo apt-get install webkit2gtk-4.1
   $ sudo apt-get install gir1.2-glib-2.0
+  $ sudo apt-get install gstreamer1.0-plugins-base \
+    gstreamer1.0-plugins-good \
+    gstreamer1.0-plugins-bad \
+    gstreamer1.0-plugins-ugly \
+    gstreamer1.0-libav
   
   # Step 4: Build and run the application.
   $ python3 src/PlatferPreview.py
