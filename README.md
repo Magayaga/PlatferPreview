@@ -19,6 +19,7 @@ It is available for **Linux** operating system and **Windows with WSL** (Windows
 * March 23, 2025, Cyril John Magayaga announced that **unlimited numbers of new tabs** and adding **GLib** had successfully worked.
 * March 24, 2025, Cyril John Magayaga wrote "Platfer Preview can't play this video or audio." **WebVTT** didn't work.
 * March 29, 2025, Cyril John Magayaga announced the addition of **GStreamer** libraries.
+* January 26, 2026, Cyril John Magayaga announced that there is no internet connection on the website and the upcoming tile-matching video game and word puzzle video game.
 
 ## Getting Started
 Quick start options are available:
@@ -64,4 +65,4 @@ Fix it missing,
 ```
 
 ## Copyright
-Copyright (c) 2022-2025 Cyril John Magayaga
+Copyright (c) 2022-2026 Cyril John Magayaga
